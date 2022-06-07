@@ -9,6 +9,7 @@ import  "../public/assets/css/owl.carousel.min.css"
 import  "../public/assets/css/magnific-popup.css"
 import  "../public/assets/colors/golden.css"
 
+
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
 }

@@ -1,0 +1,41 @@
+{
+    "title": "Welcome to Mohammad Wasim",
+    "home": {
+      "name": "Mohammad Wasim",
+      "designation": "Principal Software Engineer",
+      "image": "/assets/img/webdesigner/photo.jpg",
+      "details": "Welcome to my World. "
+    },
+    "pages": [
+      {
+        "title": "Home",
+        "path": "hero",
+        "icon": "bi bi-house"
+      },
+      {
+        "title": "About Us",
+        "path": "about",
+        "icon": "bi bi-person"
+      },
+      {
+        "title": "Portfolio",
+        "path": "portfolio",
+        "icon": "bi bi-clipboard-check"
+      },
+      {
+        "title": "Blog",
+        "path": "blog",
+        "icon": "bi bi-collection"
+      },
+      {
+        "title": "Resume",
+        "path": "resume",
+        "icon": "bi bi-book"
+      },
+      {
+        "title": "Contact",
+        "path": "contact",
+        "icon": "bi bi-geo-alt"
+      }
+    ]
+  }
