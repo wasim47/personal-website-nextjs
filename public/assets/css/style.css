@@ -1,8 +1,8 @@
 /*-----------------------------------------------------------
- * Template Name    : Arshia | Bootstrap 5 Responsive Personal V-Card Resume HTML Template
- * Author           : Retrina Group
+ * Template Name    : Personal Website
+ * Author           : Mohammad Wasim
  * Version          : 1.0.0
- * Created          : November 2021
+ * Created          : June 2022
  * File Description : Main css file of the template
  *------------------------------------------------------------
  */
@@ -42,6 +42,8 @@ body {
   top: 0;
   bottom: 0;
   right: 0;
+  background-color: #232324;
+  color: #fff;
 }
 .full-screen {
   height: 100vh;
@@ -52,6 +54,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 a,a:hover {
   text-decoration: none !important;
+
 }
 a,a:hover,button {
   outline: none !important;
